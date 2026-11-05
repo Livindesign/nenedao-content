@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "revision": 2,
+  "entries": [
+    {
+      "id": "pupu-001",
+      "character": "pupu",
+      "headline": "今天也要开心呀",
+      "message": "吃点喜欢的，伸个懒腰，\n再给自己一个大大的夸夸！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-002",
+      "character": "pupu",
+      "headline": "小进步也要夸夸",
+      "message": "今天多做成了一点点，\n就值得给自己鼓鼓掌！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-003",
+      "character": "pupu",
+      "headline": "休息好了再出发",
+      "message": "喝口水，揉揉肩，\n元气充好就去做喜欢的事！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-004",
+      "character": "pupu",
+      "headline": "先给自己一个抱抱",
+      "message": "今天辛苦啦，抱一下！\n接下来也一起加油呀。",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-005",
+      "character": "pupu",
+      "headline": "喜欢的事做一点",
+      "message": "听首歌，晒晒太阳，\n给今天加一件开心的小事。",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-006",
+      "character": "pupu",
+      "headline": "来，开心揉两下",
+      "message": "把小山揉得软乎乎，\n再带着好心情出发吧！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "juanjuan-001",
+      "character": "juanjuan",
+      "headline": "慢一点也在前进",
+      "message": "把眼前这件小事做好，\n今天就又进步一点啦！",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-002",
+      "character": "juanjuan",
+      "headline": "今天也有小惊喜",
+      "message": "尝一口喜欢的小点心，\n开心可以从这一口开始。",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-003",
+      "character": "juanjuan",
+      "headline": "开饭啦，快乐加餐",
+      "message": "认真吃饭，吃饱饱，\n才有力气去玩喜欢的事！",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-004",
+      "character": "juanjuan",
+      "headline": "做完一件就很棒",
+      "message": "完成一件小事，打个勾！\n给努力的自己点个赞。",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-005",
+      "character": "juanjuan",
+      "headline": "抬头笑一个呀",
+      "message": "伸个懒腰，活动一下，\n我们带着笑脸继续加油！",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-006",
+      "character": "juanjuan",
+      "headline": "给自己放个小假",
+      "message": "歇一会儿，喝点喜欢的，\n休息也是在补充元气呀。",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "doudou-001",
+      "character": "doudou",
+      "headline": "给今天点个赞",
+      "message": "记下一件开心的小事，\n今天就有值得庆祝的啦！",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-002",
+      "character": "doudou",
+      "headline": "勇敢试一下吧",
+      "message": "想做的小事，先试一点点，\n迈出第一步就很棒！",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-003",
+      "character": "doudou",
+      "headline": "你值得被喜欢呀",
+      "message": "喜欢你的认真，也喜欢你的笑，\n今天也请好好喜欢自己。",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-004",
+      "character": "doudou",
+      "headline": "小成就，庆祝一下",
+      "message": "做成了一件事？真棒！\n给自己安排一点小奖励吧。",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-005",
+      "character": "doudou",
+      "headline": "喜欢就说出来呀",
+      "message": "谢谢要说，喜欢也要说，\n把好心情分享给身边的人！",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-006",
+      "character": "doudou",
+      "headline": "今天的你超棒",
+      "message": "你认真做的每一件小事，\n都值得一句：做得好！",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "rongrongtu-001",
+      "character": "rongrongtu",
+      "headline": "开心开花啦",
+      "message": "见到喜欢的人和事，\n就开开心心地笑出来吧！",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-002",
+      "character": "rongrongtu",
+      "headline": "给你一个大抱抱",
+      "message": "抱一下，今天辛苦啦！\n吃好睡好，明天继续加油。",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-003",
+      "character": "rongrongtu",
+      "headline": "出去晒晒太阳吧",
+      "message": "看看花，走走路，\n给自己换个开心的心情。",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-004",
+      "character": "rongrongtu",
+      "headline": "夸夸自己，不害羞",
+      "message": "说一句：今天我也很棒！\n认真生活的你，值得表扬。",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-005",
+      "character": "rongrongtu",
+      "headline": "给今天加点甜",
+      "message": "吃颗糖，听首喜欢的歌，\n把开心安排进今天吧。",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-006",
+      "character": "rongrongtu",
+      "headline": "笑起来真可爱",
+      "message": "给喜欢的人发个问好，\n一起把今天过得热热闹闹！",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "paopaota-001",
+      "character": "paopaota",
+      "headline": "今天也要笑嘻嘻",
+      "message": "喝口水，伸个懒腰，\n带着好心情开始今天吧！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-002",
+      "character": "paopaota",
+      "headline": "忙完就去玩一下",
+      "message": "做完手头这件事，\n给自己留一点玩耍时间！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-003",
+      "character": "paopaota",
+      "headline": "小快乐，马上安排",
+      "message": "吃点好吃的，看看喜欢的，\n今天也要让自己开心呀。",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-004",
+      "character": "paopaota",
+      "headline": "玩得开心也很棒",
+      "message": "今天笑过、玩过、歇过，\n就是很不错的一天啦！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-005",
+      "character": "paopaota",
+      "headline": "给努力的你鼓掌",
+      "message": "今天又认真完成了一点，\n小獭给你啪嗒啪嗒鼓掌！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-006",
+      "character": "paopaota",
+      "headline": "好好睡，明天见",
+      "message": "今天辛苦啦，早点休息，\n睡饱了，明天再开心地玩！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "pupu-online-31",
+      "character": "pupu",
+      "headline": "把开心安排上",
+      "message": "今天给自己留十分钟，\n开开心心做点喜欢的事！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "pupu-online-32",
+      "character": "pupu",
+      "headline": "这次也要夸自己",
+      "message": "把做到的小事记下来，\n你比昨天又进步了一点！",
+      "invitation": "今日宜 · 夸夸自己"
+    },
+    {
+      "id": "juanjuan-online-33",
+      "character": "juanjuan",
+      "headline": "好吃的，好心情",
+      "message": "认真吃好这一顿饭，\n让肚子和心情都满足呀。",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "juanjuan-online-34",
+      "character": "juanjuan",
+      "headline": "今天也想为你加油",
+      "message": "遇到喜欢的事就试试，\n我在这里给你鼓鼓掌！",
+      "invitation": "今日宜 · 吃点喜欢的"
+    },
+    {
+      "id": "doudou-online-35",
+      "character": "doudou",
+      "headline": "你的小心愿很重要",
+      "message": "挑一件想做的小事，\n今天就开始试一点点吧。",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "doudou-online-36",
+      "character": "doudou",
+      "headline": "谢谢自己没放弃",
+      "message": "今天认真做过的事，\n都值得给自己点个赞！",
+      "invitation": "今日宜 · 试试新事情"
+    },
+    {
+      "id": "rongrongtu-online-37",
+      "character": "rongrongtu",
+      "headline": "给生活加个笑脸",
+      "message": "看见可爱的小东西，\n记得停下来开心一下呀。",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "rongrongtu-online-38",
+      "character": "rongrongtu",
+      "headline": "喜欢就大方说出来",
+      "message": "今天见到想念的人，\n送一句真心的夸夸吧！",
+      "invitation": "今日宜 · 出门晒太阳"
+    },
+    {
+      "id": "paopaota-online-39",
+      "character": "paopaota",
+      "headline": "玩一小会儿吧",
+      "message": "忙完手里的小任务，\n就奖励自己玩一小会儿！",
+      "invitation": "今日宜 · 开开心心"
+    },
+    {
+      "id": "paopaota-online-40",
+      "character": "paopaota",
+      "headline": "今天也有好消息",
+      "message": "把新学会的小本领，\n开开心心分享给朋友吧。",
+      "invitation": "今日宜 · 开开心心"
+    }
+  ]
+}
